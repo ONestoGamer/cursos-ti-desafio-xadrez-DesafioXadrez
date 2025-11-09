@@ -1,6 +1,8 @@
 // Desafio de Xadrez - MateCheck
 // Este código inicial serve como base para o desenvolvimento do sistema de movimentação das peças de xadrez.
 // O objetivo é utilizar estruturas de repetição e funções para determinar os limites de movimentação dentro do jogo.
+// Ernesto da Silva Santana - 202507200003
+// 08/11/2025
 
 #include <stdio.h>
 #include <stdlib.h>
